@@ -1,0 +1,18 @@
+#body {
+ background-color: #E5C4A2;   
+}
+#b1, #b2, #b3, #b4, #b5, #b6, #b7, #b8, #b9 {
+ width: 250px;
+ height: 190px;
+ font-size: 100px; 
+ background-color: antiquewhite;
+}
+#contain{
+    border-radius: 30px;
+    background-color: #2A8D8D;
+}
+#p{
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 50px;
+}
